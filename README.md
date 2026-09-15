@@ -4,6 +4,7 @@ vLLM에 Shortest Job First(SJF) 스케줄링 정책을 구현한 프로젝트입
 기반 코드: [vllm-project/vllm](https://github.com/vllm-project/vllm)
 [vllm-ltr](https://github.com/hao-ai-lab/vllm-ltr)
 
+[구현 결과](./vLLM_SJF.pdf)
 ## 수정/추가한 파일
 
 | 파일 | 변경 내용 |
